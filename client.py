@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding:utf-8 -*-
 # 文件名：client.py
 
 # 导入 socket、sys 模块
